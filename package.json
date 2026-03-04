@@ -10,7 +10,7 @@
   },
   "dependencies":{
     "pipe": "0.0.2",
-    "underscore": "1.1.6",
+    "underscore": "1.13.8",
     "underscore.string": "1.1.4"
   },
   "engines": { "node": ">=0.4.8"},
